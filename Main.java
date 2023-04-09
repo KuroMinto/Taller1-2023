@@ -10,7 +10,6 @@ public class Main {
     public static void main(String[] args) {
         Linea();
     }
-
     /**
      * Subprograma que realiza toda la ejecución de código.
      */
